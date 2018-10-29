@@ -1,2 +1,3 @@
 # hello-world
  ideas, resources, or even share and discuss things with others.
+my name is Gal , this is all soooo technical...
